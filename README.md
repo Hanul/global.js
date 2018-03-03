@@ -24,6 +24,9 @@
 		<meta charset="utf-8">
 		<title>global.js</title>
 		<script src="global.js"></script>
+		<script>
+			global.bestFood = 'Chicken';
+		</script>
 	</head>
 	<body>
 		...
