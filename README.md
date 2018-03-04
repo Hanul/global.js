@@ -26,6 +26,7 @@
 		<script src="global.js"></script>
 		<script>
 			global.bestFood = 'Chicken';
+			console.log(bestFood);
 		</script>
 	</head>
 	<body>
